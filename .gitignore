@@ -1,2 +1,3 @@
 /CCHAIN_database/*.csv
 /prepared_data/*.csv
+/.ipynb_checkpoints/*.ipynb
