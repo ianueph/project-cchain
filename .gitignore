@@ -3,3 +3,4 @@
 /.ipynb_checkpoints/*.ipynb
 /EDA_figures/*
 /jupyterrrr/*.csv
+/jupyterrrr/.ipynb_checkpoints/*.ipynb
