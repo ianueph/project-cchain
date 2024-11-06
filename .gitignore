@@ -2,3 +2,4 @@
 /prepared_data/*.csv
 /.ipynb_checkpoints/*.ipynb
 /EDA_figures/*
+/jupyterrrr/*.csv
